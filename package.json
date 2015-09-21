@@ -13,11 +13,11 @@
     "express": "~4.13.0",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0",
-    "multiparty": "*",
-    "fs-extra": "*",
-    "images": "*",
-    "crypto": "*",
+    "multiparty": "~4.1.2",
+    "fs-extra": "~0.22.1",
+    "images": "~2.1.6",
+    "crypto": "~0.0.3",
     "flex-combo": "~0.12.12",
-    "utility": "*"
+    "utility": "~1.4.0"
   }
 }
