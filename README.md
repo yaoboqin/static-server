@@ -4,7 +4,7 @@
 
 2.在当前目录执行npm install安装依赖文件
 
-3.运行node app.js启动服务
+3.运行npm start启动服务
 
 4.将静态资源URL绑定到127.0.0.1
 
